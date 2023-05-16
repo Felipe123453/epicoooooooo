@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="6|}xQqh!NNK8lUe8Eg#^">sprite</variable></variables><block type="pxt-on-start" id=":Pp~H.-/elf,[ptRoZdl" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="{=.xZoDj_88`~w-C;UDK"><field name="LEDS">`
+        # . # . # 
+        # . # . . 
+        # # # . # 
+        # . # . # 
+        # . # . #
+        `</field></block></statement></block><block type="device_gesture_event" id="Q-@62MZJ`(Uz5MM.V~%0" x="-1" y="308"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_start_melody" id=".iu2[-.](2)RYkx:|vR`"><field name="options">MelodyOptions.Once</field><value name="melody"><block type="device_builtin_melody" id="Vbvkq43cY7AZOd_t,mV`"><field name="melody">Melodies.Funk</field></block></value></block></statement></block><block type="device_forever" id="1C|9K~Wxhi38d0(8HO63" x="0" y="443"><statement name="HANDLER"><block type="device_start_melody" id="WHq~k$Jlmjy];OSXrq@5"><field name="options">MelodyOptions.ForeverInBackground</field><value name="melody"><block type="device_builtin_melody" id="]+#l{EW,8tRzx@{!6JjW"><field name="melody">Melodies.Dadadadum</field></block></value></block></statement></block></xml>
